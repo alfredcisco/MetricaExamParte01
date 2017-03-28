@@ -1,0 +1,7 @@
+E:\EXAMEN METRICA\PARTE 01\Parte01\TestParte01\obj\Debug\TestParte01.csprojResolveAssemblyReference.cache
+E:\EXAMEN METRICA\PARTE 01\Parte01\TestParte01\bin\Debug\TestParte01.dll
+E:\EXAMEN METRICA\PARTE 01\Parte01\TestParte01\bin\Debug\TestParte01.pdb
+E:\EXAMEN METRICA\PARTE 01\Parte01\TestParte01\bin\Debug\Parte01.exe
+E:\EXAMEN METRICA\PARTE 01\Parte01\TestParte01\bin\Debug\Parte01.pdb
+E:\EXAMEN METRICA\PARTE 01\Parte01\TestParte01\obj\Debug\TestParte01.dll
+E:\EXAMEN METRICA\PARTE 01\Parte01\TestParte01\obj\Debug\TestParte01.pdb

@@ -1,0 +1,5 @@
+E:\EXAMEN METRICA\PARTE 01\Parte01\Parte01\bin\Debug\Parte01.exe.config
+E:\EXAMEN METRICA\PARTE 01\Parte01\Parte01\bin\Debug\Parte01.exe
+E:\EXAMEN METRICA\PARTE 01\Parte01\Parte01\bin\Debug\Parte01.pdb
+E:\EXAMEN METRICA\PARTE 01\Parte01\Parte01\obj\Debug\Parte01.exe
+E:\EXAMEN METRICA\PARTE 01\Parte01\Parte01\obj\Debug\Parte01.pdb
